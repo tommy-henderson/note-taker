@@ -11,6 +11,8 @@ This application allows the user open a note taker app, enter and delete notes. 
 
 ## Screenshots
 
+![Get Started Page](<public/assets/screenshots/Screenshot 2023-10-28 at 8.53.53 PM.png>)
+![Notes Page](<public/assets/screenshots/Screenshot 2023-10-28 at 9.00.41 PM.png>)
 
 ## Usage
 
